@@ -73,13 +73,3 @@
 <div>‎ </div>
 <h3 align="center">Stats</h3>
 
-<table width="100%" align="center">
-  <tr>
-    <td>
-      <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdavidtm&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ingdavidtm" />
-    </td>
-    <td>
-      <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=mrdavidtm&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ingdavidtm" />
-    </td>
-  </tr>
-</table>
