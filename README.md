@@ -69,7 +69,3 @@
   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg" alt="rubyonrails" width="40" height="40"/> </a>
   </p>
 
-<div>‎ </div>
-<div>‎ </div>
-<h3 align="center">Stats</h3>
-
